@@ -1,0 +1,60 @@
+         ████████               ████████          ███████               ████                  
+         ████████               ████████         ████████              ████████               
+         ██    ██               ██    ██        ███    ██            ████  ████               
+         ██    ██               ██    ██       ███     ██           ████    ███               
+         ██    ██               ██    ██      ███      ██          ████   ████                
+         ██    ██               ██    ██     ███       ██        ████   █████                 
+         ██    ██               ██    ██    ███        ██       ████   ████                   
+         ██    ███████████████████    ██   ███         ██      ████  ████                     
+         ██    ███████████████████    ██  ███   ███    ██    ████   ████                      
+         ██                           ██ ███   ████    ██  █████   ████                       
+         ██    ███████████████████    █████   █████    ██ ████   ████                         
+         ██    ███████████████████    ████   ███ ██    ██████   ████                          
+         ██    ██               ██    ███   ███  ██    ████    ███                            
+         ██    ██               ██         ███   ██    ███   ████                             
+         ██    ██               ██        ███    ██        █████                              
+         ██    ██               ██       ███     ██       ████                                
+         ██    ██               ██      ████     ██      ████                                 
+         ██    ██               ██     ███       ██    ████                                   
+         ████████               █████████        █████████                                    
+         ████████               ████████          ███████
+
+                     THE HELLOWORLD PROJECT OPEN SOURCE LICENSE
+                     Version 1.0 — Copyright © 2026
+                     Echo Inc (a RoboLabs LLC company)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, subject to the following conditions:
+
+1. **Attribution**  
+   All copies or substantial portions of the Software must include this
+   license text in full, including the ASCII banner and project attribution.
+
+2. **Preservation of Identity**  
+   The ASCII banner at the top of this license must remain intact in any
+   redistributed or modified version. Additions are allowed; removal or
+   replacement is not.
+
+3. **No Warranty**  
+   The Software is provided “as is”, without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement. In no event shall
+   Echo Inc, RoboLabs LLC, or any contributors be liable for any claim,
+   damages, or other liability arising from, out of, or in connection with
+   the Software or the use or other dealings in the Software.
+
+4. **Freedom to Fork**  
+   You may create forks, derivatives, or alternate versions of the Software,
+   provided that they remain open-source under this license or a compatible
+   permissive license.
+
+5. **Community Conduct**  
+   Contributors are encouraged to engage respectfully with others in the
+   HelloWorld Project community. This clause is non‑binding and does not
+   restrict rights granted by this license; it reflects the collaborative
+   spirit of the project.
+
+By using, modifying, or distributing the Software, you agree to the terms of
+this license.
